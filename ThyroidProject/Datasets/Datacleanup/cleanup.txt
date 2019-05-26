@@ -1,0 +1,11 @@
+Trainset
+0 - 3163 : hypothyroid.data: Negative vs Hypothyroid
+0 - 9172 : thyroid0387.data
+
+
+Testset
+0 - 2802 : albp.data: Thyroid disease by the Garavan Institute and J. Ross
+
+
+
+
